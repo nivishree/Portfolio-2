@@ -1,0 +1,6 @@
+export const aboutData = {
+    title: "Who I am",
+    description1: "Howdy! 👋😄🤠 ",
+    description2: "I’m Nivishree Palvannan, and I bring enthusiasm and joy to every project I dive into. I absolutely love what I do, and I can’t wait to share that excitement with you! 🌟 At TORC Robotics, I’m currently adding some sparkle to remote assistance systems and designing intuitive interfaces for autonomous vehicles—think of it as turning robot brains into user-friendly marvels! 🚗💡 My path has led me from crafting dynamic UIs with ReactJS and setting up alert systems on AWS to developing cutting-edge solutions for early cancer detection at Philips Healthcare. 💻🔍 Whether it’s front-end wizardry with AngularJS or backend expertise with Flask, I’m passionate about leveraging technology to tackle real-world challenges. With a solid background in both development and testing, I’m always ready to learn and jump into new, exciting projects. Let’s connect and see what we can create together! 🚀🤝",
+    image: 2
+}

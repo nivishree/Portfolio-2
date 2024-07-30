@@ -1,5 +1,4 @@
 import resume2 from '../assets/pdf/resume2.pdf'
-
 export const headerData = {
     name: 'Nivishree',
     title: "Software Alchemist",
